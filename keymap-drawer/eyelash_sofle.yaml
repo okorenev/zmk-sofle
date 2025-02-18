@@ -55,7 +55,7 @@ layers:
   - {t: '$$mdi:volume-off$$', h: Left}
   - LEFT WIN
   - {t: 'Ctl+Alt+$$mdi:keyboard-tab$$', h: '$$mdi:apple-keyboard-option$$'}
-  - $$mdi:apple-keyboard-control$$
+  - {t: 'Gui+$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-control$$'}
   - $$mdi:keyboard-space$$
   - $$mdi:backspace-reverse-outline$$
   - $$mdi:mouse-left-click-outline$$
